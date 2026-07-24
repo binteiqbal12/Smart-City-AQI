@@ -1,0 +1,109 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.myvenv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Airflow logs
+logs/
+airflow/logs/
+
+# Log files
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test/Coverage files
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.myvenv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Airflow logs
+logs/
+airflow/logs/
+
+# Log files
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test/Coverage files
+.coverage
+htmlcov/
+.pytest_cache/
