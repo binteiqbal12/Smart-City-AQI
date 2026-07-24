@@ -199,7 +199,7 @@ Export dashboard data as CSV.
 
 # 🗺 Pakistan AQI Map
 
-![Pakistan AQI Map](screenshots/map.png)
+![Pakistan AQI Map](screenshots/pakistan_map.png)
 
 ---
 
